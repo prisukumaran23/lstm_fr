@@ -1,0 +1,63 @@
+﻿Paradigm ,Clause,Number,Eval,Dist
+S_NOUN_0_ADJ_a,,S,2,0
+S_NOUN_1_ADJ_a,est,S,3,1
+S_NOUN_1_ADJ_b,était,S,3,1
+S_NOUN_2_ADJ_a,est très,S,4,2
+S_NOUN_2_ADJ_b,est bien,S,4,2
+S_NOUN_2_ADJ_c,peut être,S,4,2
+S_NOUN_3_ADJ_a,n' est pas,S,5,3
+S_NOUN_3_ADJ_b,est aussi très,S,5,3
+S_NOUN_4_ADJ_a,n' est pas très,S,6,4
+S_NOUN_4_ADJ_b,est plus ou moins,S,6,4
+S_NOUN_4_ADJ_c,qui était ici est,S,6,4
+S_NOUN_4_ADJ_d,près de moi est,S,6,4
+S_NOUN_5_ADJ_a,que j' aime beaucoup est,S,7,5
+S_NOUN_5_ADJ_b,n' était probablement pas très,S,7,5
+S_NOUN_5_ADJ_c,qui était ici est très,S,7,5
+S_NOUN_6_ADJ_a,qui était ici hier est très,S,8,6
+S_NOUN_6_ADJ_b,qui était là depuis hier est,S,8,6
+S_NOUN_6_ADJ_c,qui était ici est aussi très,S,8,6
+S_NOUN_7_ADJ_a,qui était là depuis hier est aussi,S,9,7
+S_NOUN_7_ADJ_b,que j' aime beaucoup n' est pas,S,9,7
+S_NOUN_7_ADJ_c,qui était ici n' est pas très,S,9,7
+S_NOUN_8_ADJ_a,qui était là depuis hier est aussi très,S,10,8
+S_NOUN_8_ADJ_b,que j' aime beaucoup est plus ou moins,S,10,8
+S_NOUN_8_ADJ_c,que j' aime beaucoup n' est pas très,S,10,8
+S_NOUN_9_ADJ_a,qui était là depuis hier est plus ou moins,S,11,9
+S_NOUN_9_ADJ_b,qui était là depuis hier n' est pas très,S,11,9
+S_NOUN_10_ADJ_a,qui était près de moi hier n' est pas très,S,12,10
+S_NOUN_10_ADJ_b,qui était près de moi hier est plus ou moins,S,12,10
+S_NOUN_10_ADJ_c,près de moi que j' aime beaucoup n' est pas,S,12,10
+S_NOUN_11_ADJ_a,près de moi que j' aime beaucoup n' est pas très,S,13,11
+S_NOUN_11_ADJ_b,près de moi que j' aime beaucoup est plus ou moins,S,13,11
+P_NOUN_0_ADJ_a,,P,2,0
+P_NOUN_1_ADJ_a,sont,P,3,1
+P_NOUN_1_ADJ_b,étaient,P,3,1
+P_NOUN_2_ADJ_a,sont très,P,4,2
+P_NOUN_2_ADJ_b,sont bien,P,4,2
+P_NOUN_2_ADJ_c,peuvent être,P,4,2
+P_NOUN_3_ADJ_a,ne sont pas,P,5,3
+P_NOUN_3_ADJ_b,sont aussi très,P,5,3
+P_NOUN_4_ADJ_a,ne sont pas très,P,6,4
+P_NOUN_4_ADJ_b,sont plus ou moins,P,6,4
+P_NOUN_4_ADJ_c,qui étaient ici sont,P,6,4
+P_NOUN_4_ADJ_d,près de moi sont,P,6,4
+P_NOUN_5_ADJ_a,que j' aime beaucoup sont,P,7,5
+P_NOUN_5_ADJ_b,ne sont probablement pas très,P,7,5
+P_NOUN_5_ADJ_c,qui étaient ici sont très,P,7,5
+P_NOUN_6_ADJ_a,qui étaient ici hier sont très,P,8,6
+P_NOUN_6_ADJ_b,qui étaient là depuis hier sont,P,8,6
+P_NOUN_6_ADJ_c,qui étaient ici sont aussi très,P,8,6
+P_NOUN_7_ADJ_a,qui étaient là depuis hier sont aussi,P,9,7
+P_NOUN_7_ADJ_b,que j' aime beaucoup ne sont pas,P,9,7
+P_NOUN_7_ADJ_c,qui étaient ici ne sont pas très,P,9,7
+P_NOUN_8_ADJ_a,qui étaient là depuis hier sont aussi très,P,10,8
+P_NOUN_8_ADJ_b,que j' aime beaucoup est plus ou moins,P,10,8
+P_NOUN_8_ADJ_c,que j' aime beaucoup ne sont pas très,P,10,8
+P_NOUN_9_ADJ_a,qui étaient là depuis hier sont plus ou moins,P,11,9
+P_NOUN_9_ADJ_b,qui étaient là depuis hier ne sont pas très,P,11,9
+P_NOUN_10_ADJ_a,qui étaient près de moi hier ne sont pas très,P,12,10
+P_NOUN_10_ADJ_b,qui étaient près de moi hier sont plus ou moins,P,12,10
+P_NOUN_10_ADJ_c,près de moi que j' aime beaucoup ne sont pas,P,12,10
+P_NOUN_11_ADJ_a,près de moi que j' aime beaucoup ne sont pas très,P,13,11
+P_NOUN_11_ADJ_b,près de moi que j' aime beaucoup sont plus ou moins,P,13,11

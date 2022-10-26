@@ -1,0 +1,57 @@
+﻿Paradigm ,Clause,Number,Eval,Dist
+S_NOUN_1_PASS_a,est,S,3,1
+S_NOUN_1_PASS_b,était,S,3,1
+S_NOUN_2_PASS_a,peut être,S,4,2
+S_NOUN_2_PASS_b,est aussi,S,4,2
+S_NOUN_3_PASS_a,n' est pas,S,5,3
+S_NOUN_3_PASS_b,est aussi probablement,S,5,3
+S_NOUN_4_PASS_a,n' est probablement pas,S,6,4
+S_NOUN_4_PASS_b,est plus ou moins,S,6,4
+S_NOUN_4_PASS_c,qui était ici est,S,6,4
+S_NOUN_4_PASS_d,près de moi est,S,6,4
+S_NOUN_5_PASS_a,que j' aime beaucoup est,S,7,5
+S_NOUN_5_PASS_b,qui était ici est probablement,S,7,5
+S_NOUN_5_PASS_c,près de moi est probablement,S,7,5
+S_NOUN_6_PASS_a,qui était ici hier est probablement,S,8,6
+S_NOUN_6_PASS_b,qui était là depuis hier est,S,8,6
+S_NOUN_6_PASS_c,qui était ici est aussi probablement,S,8,6
+S_NOUN_7_PASS_a,qui était là depuis hier est aussi,S,9,7
+S_NOUN_7_PASS_b,que j' aime beaucoup n' est pas,S,9,7
+S_NOUN_7_PASS_c,qui était ici n' est pas probablement,S,9,7
+S_NOUN_8_PASS_a,que j' aime beaucoup est plus ou moins,S,10,8
+S_NOUN_8_PASS_b,que j' aime beaucoup n' est probablement pas,S,10,8
+S_NOUN_8_PASS_c,qui était là depuis hier n' est pas,S,10,8
+S_NOUN_9_PASS_a,qui était là depuis hier est plus ou moins,S,11,9
+S_NOUN_9_PASS_b,qui était près de moi hier n' est pas,S,11,9
+S_NOUN_10_PASS_a,qui était près de moi hier est plus ou moins,S,12,10
+S_NOUN_10_PASS_b,près de moi que j' aime beaucoup n' est pas,S,12,10
+S_NOUN_11_PASS_a,près de moi que j' aime beaucoup n' est probablement pas,S,13,11
+S_NOUN_11_PASS_b,près de moi que j' aime beaucoup est plus ou moins,S,13,11
+P_NOUN_1_PASS_a,sont,P,3,1
+P_NOUN_1_PASS_b,étaient,P,3,1
+P_NOUN_2_PASS_a,peuvent être,P,4,2
+P_NOUN_2_PASS_b,sont aussi,P,4,2
+P_NOUN_3_PASS_a,ne sont pas,P,5,3
+P_NOUN_3_PASS_b,sont aussi probablement,P,5,3
+P_NOUN_4_PASS_a,ne sont probablement pas,P,6,4
+P_NOUN_4_PASS_b,sont plus ou moins,P,6,4
+P_NOUN_4_PASS_c,qui étaient ici sont,P,6,4
+P_NOUN_4_PASS_d,près de moi sont,P,6,4
+P_NOUN_5_PASS_a,que j' aime beaucoup sont,P,7,5
+P_NOUN_5_PASS_b,qui étaient ici sont probablement,P,7,5
+P_NOUN_5_PASS_c,près de moi sont probablement,P,7,5
+P_NOUN_6_PASS_a,qui étaient ici hier sont probablement,P,8,6
+P_NOUN_6_PASS_b,qui étaient là depuis hier sont,P,8,6
+P_NOUN_6_PASS_c,qui étaient ici sont aussi probablement,P,8,6
+P_NOUN_7_PASS_a,qui étaient là depuis hier sont aussi,P,9,7
+P_NOUN_7_PASS_b,que j' aime beaucoup ne sont pas,P,9,7
+P_NOUN_7_PASS_c,qui étaient ici ne sont probablement pas,P,9,7
+P_NOUN_8_PASS_a,que j' aime beaucoup sont plus ou moins,P,10,8
+P_NOUN_8_PASS_b,que j' aime beaucoup ne sont probablement pas,P,10,8
+P_NOUN_8_PASS_c,qui étaient là depuis hier ne sont pas,P,10,8
+P_NOUN_9_PASS_a,qui étaient là depuis hier sont plus ou moins,P,11,9
+P_NOUN_9_PASS_b,qui étaient là depuis hier ne sont pas très,P,11,9
+P_NOUN_10_PASS_a,qui étaient près de moi hier sont plus ou moins,P,12,10
+P_NOUN_10_PASS_b,près de moi que j' aime beaucoup ne sont pas,P,12,10
+P_NOUN_11_PASS_a,près de moi que j' aime beaucoup ne sont probablement pas,P,13,11
+P_NOUN_11_PASS_b,près de moi que j' aime beaucoup sont plus ou moins,P,13,11
