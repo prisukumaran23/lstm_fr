@@ -18,7 +18,7 @@ This repository contains the following:
 Number agreement datasets were taken from Mueller et al. (2020) to test our model's robustness and replicate findings.
 
 Gender agreement evaluation sets contained noun-adjective and noun-passive-verb agreement phrases. Phrases were constructed by systematically varying 40 nouns, 15 adjectives/verbs, and 30
-distractor phrases with up to 11 words. Each condition had two sub-conditions where the main noun was singular or plural. 
+distractor phrases with up to 11 words, provided [here](https://github.com/prisukumaran23/lstm_fr/tree/main/utils_create). Each condition had two sub-conditions where the main noun was singular or plural. 
 
 ### 3. Model Training and Evaluation
 ---
