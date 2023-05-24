@@ -1,10 +1,10 @@
 
-## Do LSTMs See Gender?
+## LSTM - Gender Agreement
 ---
 This repository contains the following:
 1. Data sets for training and testing the LSTM language models
 2. Syntactic evaluation sets 
-    * [Number agreement](https://github.com/prisukumaran23/lstm_fr/tree/main/num_agr) taken from [Mueller et al. (2020)](https://aclanthology.org/2020.acl-main.490/)
+    * [Number agreement](https://github.com/prisukumaran23/lstm_fr/tree/main/testsets/num_agr) taken from [Mueller et al. (2020)](https://aclanthology.org/2020.acl-main.490/)
     * [Gender agreement](https://github.com/prisukumaran23/lstm_fr/tree/main/testsets) 
 3. Notes on model training and evaluation
 
